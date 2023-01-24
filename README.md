@@ -1,11 +1,14 @@
-# It's 20 Jan, 2022. I'm starting out a script library in Github.
+## It's all about writing TOOLS for the SHELL <@>
 
-Let's see how much I can make out of it!
+> Let's see how much I can make out of it. Book resources ahead!
 
-# It's 02 April 2022. I'm starting out, but got exams too. In fedora, of!
+### Being Bashy with --
 
-**:: Visit my wikis ::**
-:: [Index](https://github.com/greenwayRocks/vim-wiki/blob/main/index.md)
-:: [Explore](https://github.com/greenwayRocks/vim-wiki/blob/main/explore.md)
-:: [Discovery](https://github.com/greenwayRocks/vim-wiki/blob/main/discovery.md)
-:: [ToDo](https://github.com/greenwayRocks/vim-wiki/blob/main/todo.md)
+* bash Idioms
+
+### The Pythonic ways with --
+
+* Introducing Python
+
+
+> I know about more books, but let's write em when I read em!
